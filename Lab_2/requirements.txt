@@ -1,0 +1,8 @@
+numpy
+matplotlib
+mplcursors
+geopy
+pyproj
+geographiclib
+pandas
+python-docx
